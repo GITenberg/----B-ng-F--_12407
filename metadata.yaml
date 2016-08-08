@@ -1,0 +1,31 @@
+_repo: '----B-ng-F--_12407'
+_version: 0.0.1
+alternative_title: The Art of War
+creator:
+  author:
+    agent_name: Sunzi, active 6th century B.C.
+    aliases:
+    - 孫子
+    - 孙子
+    - Sun Tzu
+    gutenberg_agent_id: '4349'
+    url: http://www.gutenberg.org/2009/agents/4349
+    wikipedia:
+    - http://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
+    - http://en.wikipedia.org/wiki/Sun_Tzu
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12407'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War -- Early works to 1800'
+- !lcsh 'Military art and science -- Early works to 1800'
+- !lcc 'U'
+- GITenberg
+title: 兵法 (Bīng Fǎ)
+url: http://www.gutenberg.org/ebooks/12407
