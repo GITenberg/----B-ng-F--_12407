@@ -1,6 +1,9 @@
 _repo: '----B-ng-F--_12407'
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: The Art of War
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sunzi, active 6th century B.C.
@@ -14,6 +17,8 @@ creator:
     - http://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
     - http://en.wikipedia.org/wiki/Sun_Tzu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12407#----B-ng-F--
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
